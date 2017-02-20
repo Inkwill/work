@@ -12,3 +12,6 @@ Tutorial of github
 - git pull --rebase origin master
 - git push -u origin master
 - git push origin master
+- git clone git@github.com:Inkwill/hello-github
+
+在sublime 中使用 git
