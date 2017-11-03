@@ -2,14 +2,20 @@
 Tutorial of github 
 
 - get clone from github:
-	git clone git@github.com:Inkwill/hello-github.git
-	or
-	git clone https://github.com/Inkwill/hello-github.git
+	* git clone git@github.com:Inkwill/hello-github.git  
+	* or  
+	* git clone https://github.com/Inkwill/hello-github.git
+
+- view status  
+	* git status  	# view status
+
+- add modified file to buffer  
+	* git add filename    # add to buffer
 
 
-- git add filename    # add to buffer
+
 - git commit -m "修改说明"  # commit to repository
-- git status  	# view status
+
 - git diff filename # diff local and repository
 - git log --pretty=oneline
 - git reflog
