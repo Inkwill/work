@@ -2,7 +2,7 @@ Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage. 
 Git tracks changes of files.  
-Creating a new branch is quick & simple.  
+Creating a new branch is quick and simple.  
 
 ### creat Git repository 
 `git init`  
@@ -55,4 +55,13 @@ Creating a new branch is quick & simple.
 ### creat and checkout branch  
 `git branch <branch-name>`  
 `git checkout <branch-name>`  
-`git checkout -b <name>` (== branch + checkout)  
+`git switch <branch-name>`  (**recommend**)  
+`git checkout -b <branch-name>` (== branch + checkout)  
+`git switch -c <branch-name>` (**recommend**)
+
+### merge branch  
+`git merge <branch-name>`  
+
+### delete branch  
+`git branch -d <branch-name>`  
+
