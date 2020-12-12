@@ -33,3 +33,25 @@ Git tracks changes of files.
 ### unstage modify from stage directory  
 `git reset HEAD filename`  
 
+### delete file  
+`git rm filename`  
+
+### create SSH-Key 
+`ssh-keygen -t rsa -C "youremail@example.com"`  
+
+### add remote stage  
+`git remote add origin git@github.com:inkwill/hello-github.git`  
+
+### push local stage to empty remote  
+`git push -u origin master`  
+
+### clone remote stage to local  
+`git clone git@github.com:inkwill/hello-github.git`  
+
+### check current branch  
+`git branch`  
+
+### creat and checkout branch  
+`git branch <branch-name>`  
+`git checkout <branch-name>`  
+`git checkout -b <name>` (== branch + checkout)  
