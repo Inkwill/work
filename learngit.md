@@ -25,4 +25,11 @@ Git tracks changes of files.
 `git reset --hard versionID(HEAD^、HEAD~100、commit id)`  
 
 ### check histrory log  
-`git reflog
+`git reflog`  
+
+### revert modify from working directory (== checkout the HEAD version)  
+`git checkout -- filename`  
+
+### unstage modify from stage directory  
+`git reset HEAD filename`  
+
