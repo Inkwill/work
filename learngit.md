@@ -46,8 +46,14 @@ Creating a new branch is quick and simple.
 ### push local stage to empty remote  
 `git push -u origin master`  
 
-### clone remote stage to local  
+### clone remote stage to empty local  
 `git clone git@github.com:inkwill/hello-github.git`  
+
+### track remote brach(master) to local branch stage  
+`get branch --set-upstream-to=origin/master <branch-name>`  
+
+### pull remote file to local  
+`get pull --allow-unrelated-histories`  
 
 ### check current branch  
 `git branch`  
