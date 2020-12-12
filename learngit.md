@@ -1,10 +1,10 @@
 Git is a distributed version control system.
-Git is a free software.
+Git is a free software distributed under the GPL.
 
 ### creat Git repository 
 `git init`  
 
-### add file  
+### add file/modify  
 `git add filename`  
 
 ### commit file  
@@ -15,3 +15,12 @@ Git is a free software.
 
 ### check modify  
 `git diff (filename)`  
+
+### check log  
+`git log (--pretty=oneline)`  
+
+### revert to a version  
+`git reset --hard versionID(HEAD^、HEAD~100、commit id)`  
+
+### check histrory log  
+`git reflog
