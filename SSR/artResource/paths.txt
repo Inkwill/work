@@ -1,0 +1,13 @@
+path	space
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Characters	29.833754539489746
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\City	522.3585500717163
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Kingdom	66.8135118484497
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Material	0.06522178649902344
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Model	0.8717050552368164
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Prefab	9.253814697265625
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Rvo	0.011841773986816406
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\SE	1484.369164466858
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\SLG	7.790766716003418
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\TextAsset	0.30306529998779297
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Texture	27.497565269470215
+C:\ssr-client\project\ss-reborn\Assets\__Art\_Resources\Timelines	0.08004283905029297
